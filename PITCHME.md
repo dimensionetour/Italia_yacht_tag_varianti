@@ -1,2 +1,5 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603905622/Italia_yacht_1_slideshow/Maniglia_1.jpg&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603905622/Italia_yacht_1_slideshow/Maniglia_2.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603906123/Italia_yacht_1_slideshow/Bagno_2.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603906123/Italia_yacht_1_slideshow/Bagno_5.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603906123/Italia_yacht_1_slideshow/Bagno_3.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603906123/Italia_yacht_1_slideshow/Bagno_4.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603906123/Italia_yacht_1_slideshow/Bagno_1.jpg&color=#ffffff
