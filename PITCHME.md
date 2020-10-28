@@ -1,4 +1,4 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603883020/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_1.jpg
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882896/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_3.jpg&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_4.jpg&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_2.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603883020/Italia_yacht_1_slideshow/Variante_generica_interni_1.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882896/Italia_yacht_1_slideshow/Variante_generica_interni_3.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Italia_yacht_1_slideshow/Variante_generica_interni_4.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Italia_yacht_1_slideshow/Variante_generica_interni_2.jpg&color=#ffffff
