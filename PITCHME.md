@@ -1,2 +1,4 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854665/Salamostra/Ubik_Walnut.jpg&size=auto 100%&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854234/Salamostra/Dolmix_Light.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603883020/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_1.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882896/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_3.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_4.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603882858/Tag_Slideshow/Italia_Yacht/slideshow_Italia%20Yacht_CI3012D_varianti/Variante_generica_interni_2.jpg&color=#ffffff
