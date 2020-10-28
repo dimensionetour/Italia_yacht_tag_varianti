@@ -1,3 +1,2 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603903067/Italia_yacht_1_slideshow/Rubinetto_1.jpg&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603903067/Italia_yacht_1_slideshow/Rubinetto_2.jpg&color=#ffffff
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603903067/Italia_yacht_1_slideshow/Rubinetto_3.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603905622/Italia_yacht_1_slideshow/Maniglia_1.jpg&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1603905622/Italia_yacht_1_slideshow/Maniglia_2.jpg&color=#ffffff
